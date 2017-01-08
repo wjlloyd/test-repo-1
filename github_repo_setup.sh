@@ -20,9 +20,10 @@ git commit
 
 # initial push to github public cloud
 git remote add origin git@github.com:wjlloyd/test-repo-1.git
-git push origin master
+git push --set-upstream origin master
 
 #to push the current branch and set the remote as upstream, use
+#after setting this, git push will always go to the remote system
 git push --set-upstream origin master
 
 # subsequent pushes to public cloud
