@@ -1,3 +1,8 @@
+# git config
+git config --global user.name "Wes Lloyd-laptop"
+git config --global user.email "wlloyd@acm.org"
+git config --global core.editor vim
+
 # first time repo setup - local
 git init
 git add <files!>
