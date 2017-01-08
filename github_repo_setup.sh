@@ -22,6 +22,9 @@ git commit
 git remote add origin git@github.com:wjlloyd/test-repo-1.git
 git push origin master
 
+#to push the current branch and set the remote as upstream, use
+git push --set-upstream origin master
+
 # subsequent pushes to public cloud
 git push
 
