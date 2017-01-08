@@ -1,8 +1,8 @@
 # git helper script - describes common git operations
 
 # git config
-git config --global user.name "Wes Lloyd-laptop"
-git config --global user.email "wlloyd@acm.org"
+git config --global user.name "WHAT EVER YOUR USERNAME IS"
+git config --global user.email "your@email.com"
 git config --global core.editor vim
 
 # first time repo setup - local
